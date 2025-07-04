@@ -1,7 +1,3 @@
-Here's a comprehensive GitHub project description for your ESP32-CAM Surveillance System:
-
----
-
 # ESP32-CAM Surveillance System with OTA Updates
 
 ![Visit](https:chpcbook.up.railway.com)
