@@ -1,8 +1,6 @@
 # ESP32-CAM Surveillance System with OTA Updates
 
-![Visit](https:chpcbook.up.railway.com)
-
-A feature-rich surveillance system using ESP32-CAM that provides live video streaming, snapshot capture, camera controls, and wireless firmware updates.
+A feature-rich surveillance system using ESP32-CAM that provides live video streaming, snapshot capture, camera controls, and wireless firmware updates.![Visit](https:chpcbook.up.railway.com)
 
 ## Key Features
 
